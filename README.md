@@ -2,7 +2,7 @@ The Dice Game App.
 
 In this we can play the number game with the help of Two Dicee and at last we can display the result.
 
-This application is made by HTML, CSS, JavaScript by calling function with the help of mouse for playing the game.
+This application is made by HTML, CSS, JavaScript with the help of pressing refresh button for playing the game.
 
 some following step for running the application:
 1. Firstly Download the Zip file folder.
